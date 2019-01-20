@@ -1,0 +1,6 @@
+owner=485408429196836876
+prefix=D
+game=Dplay
+stayinchannel=true
+songinstatus=false
+token=NTM2NDgxODg2ODAxODg3MjYy.DyXVfA.EN3FKSJ35pW2mg45EMfu9KphfS4
